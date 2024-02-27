@@ -1,0 +1,21 @@
+{
+  "name": "@rawendra/fs-utils",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "main.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rawendra/node-js-fs-utils.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rawendra/node-js-fs-utils/issues"
+  },
+  "homepage": "https://github.com/Rawendra/node-js-fs-utils#readme"
+}
